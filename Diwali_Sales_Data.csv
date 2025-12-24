@@ -1,0 +1,51 @@
+User_ID,Gender,Age,Age Group,Marital_Status,State,Occupation,Product_Category,Orders,Amount
+1001,Female,22,18-25,0,Uttar Pradesh,IT,Food,1,5000
+1002,Male,25,26-35,1,Maharashtra,Healthcare,Clothing,2,12000
+1003,Female,29,26-35,0,Karnataka,Aviation,Electronics,3,18000
+1004,Male,34,26-35,1,Delhi,Govt,Footwear,2,9000
+1005,Female,41,36-45,0,Gujarat,Banking,Furniture,1,15000
+1006,Male,22,18-25,1,Uttar Pradesh,IT,Food,1,5000
+1007,Female,25,26-35,0,Maharashtra,Healthcare,Clothing,2,12000
+1008,Male,29,26-35,1,Karnataka,Aviation,Electronics,3,18000
+1009,Female,34,26-35,0,Delhi,Govt,Footwear,2,9000
+1010,Male,41,36-45,1,Gujarat,Banking,Furniture,1,15000
+1011,Female,22,18-25,0,Uttar Pradesh,IT,Food,1,5000
+1012,Male,25,26-35,1,Maharashtra,Healthcare,Clothing,2,12000
+1013,Female,29,26-35,0,Karnataka,Aviation,Electronics,3,18000
+1014,Male,34,26-35,1,Delhi,Govt,Footwear,2,9000
+1015,Female,41,36-45,0,Gujarat,Banking,Furniture,1,15000
+1016,Male,22,18-25,1,Uttar Pradesh,IT,Food,1,5000
+1017,Female,25,26-35,0,Maharashtra,Healthcare,Clothing,2,12000
+1018,Male,29,26-35,1,Karnataka,Aviation,Electronics,3,18000
+1019,Female,34,26-35,0,Delhi,Govt,Footwear,2,9000
+1020,Male,41,36-45,1,Gujarat,Banking,Furniture,1,15000
+1021,Female,22,18-25,0,Uttar Pradesh,IT,Food,1,5000
+1022,Male,25,26-35,1,Maharashtra,Healthcare,Clothing,2,12000
+1023,Female,29,26-35,0,Karnataka,Aviation,Electronics,3,18000
+1024,Male,34,26-35,1,Delhi,Govt,Footwear,2,9000
+1025,Female,41,36-45,0,Gujarat,Banking,Furniture,1,15000
+1026,Male,22,18-25,1,Uttar Pradesh,IT,Food,1,5000
+1027,Female,25,26-35,0,Maharashtra,Healthcare,Clothing,2,12000
+1028,Male,29,26-35,1,Karnataka,Aviation,Electronics,3,18000
+1029,Female,34,26-35,0,Delhi,Govt,Footwear,2,9000
+1030,Male,41,36-45,1,Gujarat,Banking,Furniture,1,15000
+1031,Female,22,18-25,0,Uttar Pradesh,IT,Food,1,5000
+1032,Male,25,26-35,1,Maharashtra,Healthcare,Clothing,2,12000
+1033,Female,29,26-35,0,Karnataka,Aviation,Electronics,3,18000
+1034,Male,34,26-35,1,Delhi,Govt,Footwear,2,9000
+1035,Female,41,36-45,0,Gujarat,Banking,Furniture,1,15000
+1036,Male,22,18-25,1,Uttar Pradesh,IT,Food,1,5000
+1037,Female,25,26-35,0,Maharashtra,Healthcare,Clothing,2,12000
+1038,Male,29,26-35,1,Karnataka,Aviation,Electronics,3,18000
+1039,Female,34,26-35,0,Delhi,Govt,Footwear,2,9000
+1040,Male,41,36-45,1,Gujarat,Banking,Furniture,1,15000
+1041,Female,22,18-25,0,Uttar Pradesh,IT,Food,1,5000
+1042,Male,25,26-35,1,Maharashtra,Healthcare,Clothing,2,12000
+1043,Female,29,26-35,0,Karnataka,Aviation,Electronics,3,18000
+1044,Male,34,26-35,1,Delhi,Govt,Footwear,2,9000
+1045,Female,41,36-45,0,Gujarat,Banking,Furniture,1,15000
+1046,Male,22,18-25,1,Uttar Pradesh,IT,Food,1,5000
+1047,Female,25,26-35,0,Maharashtra,Healthcare,Clothing,2,12000
+1048,Male,29,26-35,1,Karnataka,Aviation,Electronics,3,18000
+1049,Female,34,26-35,0,Delhi,Govt,Footwear,2,9000
+1050,Male,41,36-45,1,Gujarat,Banking,Furniture,1,15000
