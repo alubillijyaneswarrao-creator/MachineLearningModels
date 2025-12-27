@@ -8,3 +8,5 @@ I have imported the models which are used in Machine Learning using the datasets
 -> EDA - Diwali_Sales_Data.csv
 
 ->Naive_bias - pacific.csv
+
+->DecisionTreeClassifier - pacific.csv
